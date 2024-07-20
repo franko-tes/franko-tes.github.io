@@ -31,6 +31,7 @@ body {
 .header__items img {
     width: 50%;
     border-radius: 50%;
+    border: 4px solid #FFE0B2;
 }
 
 h1 {
@@ -38,9 +39,19 @@ h1 {
     margin-top: 2rem;
 }
 
+/*-- MAIN SECTION --*/
 
-h2 {
+p {
     font-size: 2rem;
+    color: #4E342E;
+    width: 100%;
+    background-color: #fff;
+    padding: 2rem;
+}
+
+main ul {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 li {
@@ -51,10 +62,11 @@ li {
     padding: 1rem;
     border-radius: 1rem;
     text-align: center;
-    border: 1px solid #7AA2E3;
+    border: 2px solid #FFE0B2;
 }
 
 a {
     text-decoration: none;
-    color: blue;
+    color: #00f;
+    font-size: 1.5rem;
 }
