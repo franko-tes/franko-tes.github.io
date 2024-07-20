@@ -6,11 +6,12 @@
 
 html {
     font-size: 62.5%;
-    font-family: sans-serif;
 }
 
 body {
-    background-color: #F8F6E3;
+    font-family: sans-serif;
+    background-color: #FFF8E1;
+    color: #FF8A80 ;
 }
 
 header {
